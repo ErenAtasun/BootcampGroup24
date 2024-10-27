@@ -8,11 +8,11 @@
 
 •	Erdem Naz - Scrum Master
 
-•	Feyza Gülen - Product Owner
+•	Eren Atasun - Product Owner
 
 •	Funda Bayhan - Developer
 
-•	Eren Atasun - Developer
+•	Feyza Gülen - Developer
 
 •	Erkan Koç - Developer
 
