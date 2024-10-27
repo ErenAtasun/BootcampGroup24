@@ -6,9 +6,9 @@
 
 # Takım Üyeleri
 
-•	Erdem Naz - Scrum Master
-
 •	Eren Atasun - Product Owner
+
+•	Erdem Naz - Scrum Master
 
 •	Funda Bayhan - Developer
 
